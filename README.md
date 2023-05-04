@@ -1,13 +1,5 @@
-werw
-wer
-w
-
-werw
-er
+ewrwerwerwerwer
 we
 r
-w
-<<<<<<< HEAD
-=======
-er
->>>>>>> 4438764 (br1- push)
+we
+r
